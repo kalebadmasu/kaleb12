@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    
+}
+#content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+body{
+    background-color: darkgoldenrod;
+}
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h3{
+
+    margin-left: 10%;
+}
+#ull{
+    margin-left: 10%;
+}

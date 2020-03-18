@@ -1,0 +1,38 @@
+body{
+
+    background-color: darkgoldenrod;
+    font-size: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: darkgoldenrod;
+    
+}
+img{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-left: 2%;
+    margin-right: 5%;
+    margin-top: 2%;
+  margin-bottom: 2%;
+  display: inline-block;
+  }
+  h1{
+    margin-left: 10%;
+    margin-right: 1.6%;
+    margin-top: 10%;
+  margin-bottom: 2%;
+  text-align: center;
+
+  }
+ #h33{
+     text-align: center;
+ }
+ #p1{
+     text-align: center;
+ }
+ #hob{
+     
+     height: 300px;
+     margin-top: 100px;
+ }
