@@ -1,0 +1,35 @@
+table{
+    width: 33%;
+
+    border-collapse: collapse;
+    margin-left: 33%;
+
+
+}
+td{
+    width: 33%;
+    border: 10px solid black;
+
+}
+td::after{
+    content: " ";
+    display: block;
+    margin-top: 70%;
+    
+}
+
+td:first-of-type{
+    border-left-color:white;
+    border-top-color: white;
+}
+td:nth-of-type(2){
+    border-top-color:white;
+}
+td:nth-of-type(3){
+    border-right-color: white;
+    border-top-color: white;
+
+}
+tr:nth-of-type(3) td{
+    border-bottom-color:white ;
+}
